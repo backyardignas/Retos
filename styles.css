@@ -1,0 +1,10 @@
+.contenedor {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#numero {
+    color: rgb(255, 0, 200);
+    font-size: 60px;
+}
